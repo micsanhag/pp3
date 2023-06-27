@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![CI logo]https://github.com/micsanhag/pp3/blob/main/tictactoe.jpg
 
 Welcome USER_NAME,
 
