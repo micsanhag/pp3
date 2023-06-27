@@ -1,14 +1,11 @@
-![CI logo]https://github.com/micsanhag/pp3/blob/main/tictactoe.jpg
+![PP3-Tic-Tac-Toe](https://github.com/micsanhag/pp3/blob/main/tictactoe.jpg)
 
-Welcome USER_NAME,
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+## Welcome to my Tic-Tac-Toe game written in Python!
+This classic game is a perfect way to challenge your strategic thinking and have fun.
+Play against the computer and see if you can outsmart it. 
+Enjoy the timeless game of Tic-Tac-Toe right on your computer!
 
-## Reminders
-
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
 
 ## Creating the Heroku app
 
