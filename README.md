@@ -1,8 +1,8 @@
 ![PP3-Tic-Tac-Toe](https://github.com/micsanhag/pp3/blob/main/tictactoe.jpg)
 
 ## Welcome to my Tic-Tac-Toe game written in Python!
-This classic game is a perfect way to challenge your strategic thinking and have fun.
-Play against the computer and see if you can outsmart it. 
+This classic game is a perfect way to challenge your strategic thinking and have fun.<br>
+Play against the computer and see if you can outsmart it.<br> 
 Enjoy the timeless game of Tic-Tac-Toe right on your computer!
 
 
