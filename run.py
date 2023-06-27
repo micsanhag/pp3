@@ -47,7 +47,8 @@ def play_game():
             # Player's move
             valid_move = False
             while not valid_move:
-                move = input(f"{player_name}, enter your move (1-9): ")
+                move = input(player_name + ", enter your move (1-9): ")
+
                 if move.isdigit():
                     move = int(move) - 1
                     if move >= 0 and move < 9 and board[move] == " ":
@@ -68,7 +69,7 @@ def play_game():
         if check_win(current_player):
             print_board()
             if current_player == "X":
-                print(f"{player_name} wins!")
+                print(player_name + " wins!")
             else:
                 print("Computer wins!")
             game_over = True
